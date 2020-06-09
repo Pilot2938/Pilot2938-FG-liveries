@@ -26,9 +26,11 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas
 
 In progress:
 
-A330-200: Air Seychelles
+A330-200: Air Seychelles, Lufthansa
 
 A320-251N: Air Seychelles
+
+A320-232: Air Seychelles
 
 
 
