@@ -25,6 +25,7 @@ Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airw
 Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas
 
 In progress:
+
 A330-200: Air Seychelles
 
 A320-251N: Air Seychelles
