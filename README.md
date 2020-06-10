@@ -28,4 +28,6 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas
 
 In progress:
 
-A330-300: Lufthansa
+A330-343: Eurowings
+
+A330-203: Eurowings
