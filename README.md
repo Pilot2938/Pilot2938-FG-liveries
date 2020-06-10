@@ -8,17 +8,17 @@ Liveries you can find:
 
 A320-111: British Airways
 
-A320-214: Air Canada, Austrian Airlines, British Airways, Condor, Eurowings, Swiss, TAP Air Portugal
+A320-214: Air Canada, Austrian Airlines, British Airways, Condor, Eurowings, Swiss, TAP Air Portugal, Air Seychelles
 
 A320-232: British Airways
 
-A320-251N: British Airways, TAP Air Portugal
+A320-251N: British Airways, TAP Air Portugal, Air Seychelles
 
 A320-271N: Swiss, Wizz Air
 
 A330-243: Air Seychelles
 
-A380: Asiana Airlines, Lufthansa, Korean Air, Qatar
+A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA
 
 Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways
 
@@ -29,11 +29,3 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas
 In progress:
 
 A330-300: Lufthansa
-
-A320-251N: Air Seychelles
-
-A320-232: Air Seychelles
-
-
-
-
