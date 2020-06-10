@@ -16,6 +16,8 @@ A320-251N: British Airways, TAP Air Portugal
 
 A320-271N: Swiss, Wizz Air
 
+A330-243: Air Seychelles
+
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar
 
 Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways
@@ -26,7 +28,7 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas
 
 In progress:
 
-A330-200: Air Seychelles, Lufthansa
+A330-300: Lufthansa
 
 A320-251N: Air Seychelles
 
