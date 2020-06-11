@@ -16,6 +16,8 @@ A320-251N: British Airways, TAP Air Portugal, Air Seychelles
 
 A320-271N: Swiss, Wizz Air
 
+A330-203: Eurowings
+
 A330-243: Air Seychelles
 
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA
@@ -29,5 +31,3 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of
 In progress:
 
 A330-343: Eurowings
-
-A330-203: Eurowings
