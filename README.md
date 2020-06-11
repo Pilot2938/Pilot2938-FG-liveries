@@ -31,3 +31,7 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of
 In progress:
 
 A330-343: Eurowings
+
+A320-232: Qatar
+
+777-200LR/300ER: Air India
