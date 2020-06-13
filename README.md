@@ -26,10 +26,10 @@ Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways
 
 Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airways
 
-Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of Polands Independence)  
+Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of Polands Independence) 
+
+Boeing 777-300: Air India
 
 In progress:
 
-A330-343: Eurowings
-
-777-200LR/300ER: Air India
+777-200: Air India
