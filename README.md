@@ -24,7 +24,7 @@ A330-343: Eurowings
 
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA
 
-Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways
+Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways, Polish Air Force
 
 Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airways
 
