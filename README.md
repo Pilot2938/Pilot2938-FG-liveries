@@ -22,7 +22,7 @@ A330-243: Air Seychelles
 
 A330-343: Eurowings
 
-A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA
+A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
 Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways, Polish Air Force
 
