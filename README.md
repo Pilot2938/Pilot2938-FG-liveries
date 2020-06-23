@@ -26,6 +26,8 @@ A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
 Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways, Polish Air Force
 
+Boeing 747-8i: Qatar
+
 Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airways
 
 Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of Polands Independence) 
