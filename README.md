@@ -32,10 +32,8 @@ Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of
 
 Boeing 777-300: Air India
 
+DHC-6: Air Seychelles
+
 In progress:
 
 777-200: Air India
-
-
-
-Made by Jakub Kostka
