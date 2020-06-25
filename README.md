@@ -32,6 +32,8 @@ Boeing 747-8F: UPS
 
 Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airways
 
+Boeing 757-300: Condor
+
 Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of Polands Independence) 
 
 Boeing 777-300: Air India
