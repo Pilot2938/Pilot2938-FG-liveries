@@ -42,4 +42,4 @@ DHC-6: Air Seychelles
 
 In progress:
 
-777-200: Air India
+Boeing 787-9: Virgin Atlantic
