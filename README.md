@@ -42,4 +42,6 @@ DHC-6: Air Seychelles
 
 In progress:
 
-none
+A350-900XWB: Lufthansa, Cathay Pacific
+
+B787-9: KLM 100 years livery
