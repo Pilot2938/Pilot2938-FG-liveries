@@ -36,7 +36,9 @@ Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airw
 
 Boeing 757-300: Condor
 
-Boeing 787-8/9: American Airlines, Air Canada, Delta, TUI, Qantas, LOT (Proud of Polands Independence), Turkish Airlines, Virgin Atlantic
+Boeing 787-8: American Airlines, Air Canada, Delta, TUI
+
+Boeing 787-9: Virgin Atlantic, Qantas, TUI, LOT, Turkish Airlines
 
 Boeing 777-300: Air India
 
@@ -45,3 +47,5 @@ DHC-6: Air Seychelles
 In progress:
 
 B787-9: KLM 100 years livery
+
+updating 787-8 liveries
