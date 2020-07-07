@@ -22,6 +22,8 @@ A330-243: Air Seychelles
 
 A330-343: Eurowings
 
+A350-900: Lufthansa, Cathay Pacific
+
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
 Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways, Polish Air Force
@@ -41,7 +43,5 @@ Boeing 777-300: Air India
 DHC-6: Air Seychelles
 
 In progress:
-
-A350-900XWB: Lufthansa, Cathay Pacific
 
 B787-9: KLM 100 years livery
