@@ -49,3 +49,5 @@ In progress:
 B787-9: KLM 100 years livery
 
 updating 787-8 liveries
+
+B787-8: LOT Polish Airlines
