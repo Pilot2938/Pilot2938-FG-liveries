@@ -26,7 +26,7 @@ A350-900: Lufthansa, Cathay Pacific
 
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
-Boeing 737-800: LOT (Proud of Polands Independence), TUI Airways, Polish Air Force
+Boeing 737-800: LOT), TUI Airways, Polish Air Force
 
 Boeing 747-8i: Qatar
 
@@ -36,9 +36,9 @@ Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airw
 
 Boeing 757-300: Condor
 
-Boeing 787-8: American Airlines, Air Canada, Delta, TUI
+Boeing 787-8: American Airlines, Air Canada, LOT, TUI Airways
 
-Boeing 787-9: Virgin Atlantic, Qantas, TUI, LOT, Turkish Airlines
+Boeing 787-9: America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic
 
 Boeing 777-300: Air India
 
@@ -46,8 +46,4 @@ DHC-6: Air Seychelles
 
 In progress:
 
-B787-9: KLM 100 years livery
-
-updating 787-8 liveries
-
-B787-8: LOT Polish Airlines
+none
