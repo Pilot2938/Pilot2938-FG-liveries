@@ -36,9 +36,9 @@ Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airw
 
 Boeing 757-300: Condor
 
-Boeing 787-8: American Airlines, Air Canada, LOT, TUI Airways, LATAM Chile
+Boeing 787-8: American Airlines, Air Canada, LOT, TUI Airways, LATAM Chile, British Airways
 
-Boeing 787-9: America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic, LATAM chile
+Boeing 787-9: America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic, LATAM chile, British Airways
 
 Boeing 777-300: Air India
 
