@@ -22,7 +22,7 @@ A330-243: Air Seychelles
 
 A330-343: Eurowings
 
-A350-900: Lufthansa, Cathay Pacific
+A350-900: Lufthansa, Cathay Pacific, SAS Scandinavian Airlines
 
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
