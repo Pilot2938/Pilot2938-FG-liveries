@@ -44,6 +44,8 @@ Boeing 777-300: Air India, Biman Bangladesh
 
 DHC-6: Air Seychelles
 
+Embraer E175:LOT
+
 In progress:
 
 none
