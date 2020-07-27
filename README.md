@@ -48,6 +48,8 @@ Embraer E170: LOT
 
 Embraer E175: LOT
 
+MD-11: American Airlines
+
 In progress:
 
 none
