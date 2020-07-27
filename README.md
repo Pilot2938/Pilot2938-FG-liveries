@@ -52,7 +52,13 @@ MD-11: American Airlines
 
 In progress:
 
-none
+E190: Ukrainian Airlines
+
+E195: LOT
+
+B767: Ukrainian Airlines
+
+MD-11 Liveries
 
 
 
