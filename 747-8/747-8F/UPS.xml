@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">UPS</name>
+				<texture>Liveries/748F/UPS.png</texture>
+			</livery>
+			<turbofans>
+				<name type="string">Planet Express</name>
+				<texture>Liveries/748F/turbofan.png</texture>
+			</turbofans>
+			<wings>
+				<name type="string">Planet Express</name>
+				<texture>Liveries/748F/wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>
