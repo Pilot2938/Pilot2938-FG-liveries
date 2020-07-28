@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">BBC Biman Bangladesh</name>
+            <texture>Liveries-300/BBC.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>BBC</aircraft-operator>
+</sim>
+</PropertyList>
