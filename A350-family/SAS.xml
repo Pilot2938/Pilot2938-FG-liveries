@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">SAS Scandinavian Airlines</name>
+        <index type="int">1</index>
+        <bodyWork>
+  	  <texture>Liveries/SAS.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">SAA South African Airways</name>
+        <index type="int">1</index>
+        <bodyWork>
+  	  <texture>Liveries/SAA.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>
