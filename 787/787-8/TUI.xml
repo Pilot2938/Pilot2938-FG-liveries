@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">TUI</name>
+				<texture>Liveries/TUI.png</texture>
+			</livery>
+			<lights>
+				<texture>Liveries/TUI-lights.png</texture>
+			</lights>
+		</model>
+	</sim>
+</PropertyList>
