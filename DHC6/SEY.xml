@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Air Seychelles</name>
+            <texture>Liveries/SEY.png</texture>
+        </livery>
+        <blunt-nose>0</blunt-nose>
+        <display-callsign>0</display-callsign>
+    </model>
+</sim>
+</PropertyList>
