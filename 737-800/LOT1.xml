@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">LOT (Proud of Polands independence)</name>
+            <texture>Liveries-800/LOT1.png</texture>     
+			<newwinglets type="bool">true</newwinglets>
+			<nowinglets type="bool">false</nowinglets> 
+        </livery>        
+    </model>
+</sim>
+</PropertyList>
+
