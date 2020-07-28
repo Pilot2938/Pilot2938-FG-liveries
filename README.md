@@ -32,7 +32,7 @@ Boeing 747-8i: Qatar
 
 Boeing 747-8F: UPS
 
-Boeing 757-200: Icelandair (Hekla Aurora and 80 years livery included), TUI Airways
+Boeing 757-200: Icelandair, TUI Airways, Easyjet
 
 Boeing 757-300: Condor
 
