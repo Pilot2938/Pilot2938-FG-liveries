@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>TUI</name>
+				<texture>TUI.png</texture>
+				<winglets type="bool">true</winglets>
+			</livery>  	  
+		</model>
+	</sim>
+</PropertyList>
