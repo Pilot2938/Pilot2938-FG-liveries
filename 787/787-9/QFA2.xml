@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+
+<PropertyList>
+
+<sim>
+    
+<model>
+        
+<livery>
+            
+<name type="string">Qantas Special Livery</name>
+            
+<texture>Liveries/QFA2.png</texture>
+        
+</livery>
+        
+<lights>
+            
+<texture>Liveries/QFA-Lights.png</texture>
+        
+</lights>
+  
+</model>
+
+</sim>
+
+</PropertyList>
