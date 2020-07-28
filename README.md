@@ -1,8 +1,8 @@
 # FG-liveries
 liveries for FlightGear
 All liveries are fully made by me
-If you have suggestions for more liveries write to me on FG forum
-I'll upload it usually in the next 24h
+If you have suggestions for more liveries write to me on FG forum or FG discord
+I'll upload it usually in the next 7 days
 
 Liveries you can find:
 
@@ -52,13 +52,15 @@ MD-11: American Airlines
 
 In progress:
 
+Lineage 1000: some liveries
+
 E190: Ukrainian Airlines
 
 E195: LOT
 
 B767: Ukrainian Airlines
 
-MD-11 Liveries
+MD-11: some liveries
 
 
 
