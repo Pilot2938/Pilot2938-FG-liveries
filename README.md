@@ -26,7 +26,7 @@ A350-900: Lufthansa, Cathay Pacific, SAS Scandinavian Airlines, Japan Airlines, 
 
 A380: Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
-Boeing 737-800: LOT, TUI Airways, Polish Air Force, US-Bangla, StarJet
+Boeing 737-800: LOT, TUI Airways, Polish Air Force, US-Bangla, SpiceJet
 
 Boeing 747-8i: Qatar
 
