@@ -48,17 +48,19 @@ Embraer E170: LOT
 
 Embraer E175: LOT
 
-MD-11: American Airlines
+Embraer E190: Ukrainian Airlines
+
+Embraer E195: Ukrainian Airlines
+
+MD-11: American Airlines, Alitalia
+
+MD-11F: AAlitalia
 
 In progress:
 
-Lineage 1000: some liveries
-
-E190: Ukrainian Airlines
+Lineage 1000: Air X
 
 E195: LOT
-
-B767: Ukrainian Airlines
 
 MD-11: some liveries
 
