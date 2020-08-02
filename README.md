@@ -54,7 +54,7 @@ Embraer E195: Ukrainian Airlines, LOT
 
 MD-11: American Airlines, Alitalia
 
-MD-11F: AAlitalia
+MD-11F: Alitalia
 
 In progress:
 
