@@ -4,8 +4,8 @@
 	<sim>
 		<model>
 			<livery>
-				<name type="string">LOT Polish Airlines (SP-LRE)</name>
-				<texture>Liveries/LOT.png</texture>
+				<name type="string">LOT Polish Airlines (SP-LRF)</name>
+				<texture>Liveries/LOT3.png</texture>
 			</livery>
 			<lights>
 				<texture>Liveries/LOT-lights.png</texture>
