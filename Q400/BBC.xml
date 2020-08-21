@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Biman Bangladesh</name>
+            <texture>Liveries/q400-jsb/BBC.png</texture>
+	    <enable-hud type="bool">0</enable-hud>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
