@@ -58,6 +58,8 @@ MD-11: American Airlines, Alitalia
 
 MD-11F: Alitalia
 
+Bombardier Dash8 Q400: US-Bangla, Biman Bangladesh
+
 In progress:
 
 MD-11: some liveries
