@@ -38,7 +38,7 @@ Boeing 757-300: Condor
 
 Boeing 787-8: American Airlines, Air Canada, LOT, TUI Airways, LATAM Chile, British Airways, Biman Bangladesh
 
-Boeing 787-9: America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic, LATAM chile, British Airways, Turkish Airways (slightly updated by Iskender), Biman Bangladesh
+Boeing 787-9: America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic, LATAM chile, British Airways, Turkish Airways, Biman Bangladesh
 
 Boeing 777-300: Air India, Biman Bangladesh
 
