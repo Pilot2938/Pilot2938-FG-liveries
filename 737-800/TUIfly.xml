@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">TUIfly (D-ATUD)</name>
+            <texture>/Liveries-800/TUIfly.png</texture> 
+			<newwinglets type="bool">true</newwinglets>
+			<nowinglets type="bool">false</nowinglets> 
+        </livery>        
+    </model>
+</sim>
+</PropertyList>
+
