@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">SpiceJet</name>
+				<texture>Liveries/q400-jsb/SEJ.png</texture>
+				<enable-hud type="bool">0</enable-hud>
+				<callsign type="string">VT-SQI</callsign>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
