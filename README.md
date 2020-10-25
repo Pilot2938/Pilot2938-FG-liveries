@@ -64,10 +64,6 @@ In progress:
 
 MD-11: some liveries
 
-757: UPS
-
-737: Vistara
-
 787-9: Vistara
 
 Q400: SpiceJet
