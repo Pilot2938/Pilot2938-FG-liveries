@@ -58,15 +58,13 @@ MD-11: American Airlines, Alitalia, Japan Airlines, China Eastern
 
 MD-11F: Alitalia, China Eastern
 
-Bombardier Dash8 Q400: US-Bangla, Biman Bangladesh
+Bombardier Dash8 Q400: US-Bangla, Biman Bangladesh, SpiceJet
 
 In progress:
 
 MD-11: some liveries
 
 787-9: Vistara
-
-Q400: SpiceJet
 
 Make sure to check out https://herbert394.wixsite.com/fgliveries for even more high quality livs!
 
