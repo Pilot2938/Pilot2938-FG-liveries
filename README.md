@@ -54,9 +54,9 @@ Embraer E195: Ukrainian Airlines, LOT
 
 Lineage 1000: Air X
 
-MD-11: American Airlines, Alitalia
+MD-11: American Airlines, Alitalia, Japan Airlines, China Eastern
 
-MD-11F: Alitalia
+MD-11F: Alitalia, China Eastern
 
 Bombardier Dash8 Q400: US-Bangla, Biman Bangladesh
 
