@@ -56,7 +56,7 @@ Lineage 1000: Air X
 
 MD-11: American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair
 
-MD-11F: Alitalia, China Eastern, EVA Air Cargo, Aeroflot
+MD-11F: Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair
 
 Bombardier Dash8 Q400: US-Bangla, Biman Bangladesh, SpiceJet
 
