@@ -54,7 +54,7 @@ Embraer E195: Ukrainian Airlines, LOT
 
 Lineage 1000: Air X
 
-MD-11: American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM
+MD-11: American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM, Swiss
 
 MD-11F: Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair
 
