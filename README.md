@@ -66,6 +66,10 @@ MD-11: some liveries
 
 787-9: Vistara
 
+707: Sabena
+
+E-jet: Kenya Airways
+
 Make sure to check out https://herbert394.wixsite.com/fgliveries for even more high quality livs!
 
 DO NOT MODIFY, IF YOU SEE ANY UNPERFECTIONS IN MY WORK LET ME KNOW AS SOON AS POSSIBLE OR MAKE YOUR OWN LIVERY. 
