@@ -18,7 +18,7 @@ A320-271N: Swiss, Wizz Air, Qatar
 
 A330-203: Eurowings
 
-A330-243: Air Seychelles
+A330-243: Air Seychelles, Air China
 
 A330-343: Eurowings
 
