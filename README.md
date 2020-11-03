@@ -5,6 +5,8 @@ If you have suggestions for more liveries write to me on FG forum or FG discord 
 
 # Liveries you can find:
 
+## Airbus:
+
 ### A320-111:
 British Airways
 
@@ -35,6 +37,8 @@ Lufthansa, Cathay Pacific, SAS Scandinavian Airlines, Japan Airlines, South Afri
 ### A380:
 Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
+## Boeing:
+
 ### Boeing 737-800:
 LOT, TUI Airways, Polish Air Force, US-Bangla, SpiceJet
 
@@ -59,8 +63,12 @@ America Airlines, Air Canada, KLM, LOT, Qantas, TUI Airways, Virgin Atlantic, LA
 ### Boeing 777-300:
 Air India, Biman Bangladesh
 
+## DHC:
+
 ### DHC-6:
 Air Seychelles
+
+## Embraer:
 
 ### Embraer E170:
 LOT
@@ -77,11 +85,15 @@ Ukrainian Airlines, LOT
 ### Lineage 1000:
 Air X
 
+## McDonnell Douglas:
+
 ### MD-11:
 American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM, Swiss, Aer Lingus
 
 ### MD-11F:
 Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair
+
+## Bombardier:
 
 ### Bombardier Dash8 Q400:
 US-Bangla, Biman Bangladesh, SpiceJet
