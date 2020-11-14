@@ -37,6 +37,10 @@ Lufthansa, Cathay Pacific, SAS Scandinavian Airlines, Japan Airlines, South Afri
 #### A380:
 Asiana Airlines, Lufthansa, Korean Air, Qatar, ANA, Thai Airways
 
+#### EC135:
+
+Polish Border Guard, Lotnicze Pogotowie Ratunkowe
+
 ## Boeing:
 
 #### Boeing 737-800:
