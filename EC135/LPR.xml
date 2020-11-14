@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+	<name type="string">Lotnicze Pogotowie Ratunkowe</name>
+	<index type="int">1</index>
+	<texture>liveries/LPR.png</texture>
+      </livery>
+      <ec135>
+	<AnalogDual>true</AnalogDual>
+	<DigitalDual>false</DigitalDual>
+	<AnalogSingle>false</AnalogSingle>
+	<DigitalSingle>false</DigitalSingle>	
+	<HEMS>true</HEMS>
+	<VIP>false</VIP>
+	<Utility>false</Utility>
+	<hide-gsdi>true</hide-gsdi>
+	<BigRadom>false</BigRadom>
+	<nose>true</nose><!--nose without frontlight-->
+	<!--or-->
+	<smallradom>true</smallradom>
+	<!--or-->
+	<nosefl>true</nosefl><!--nose with frontlight-->
+	<searchlight_front>false</searchlight_front><!--only without radom and without nosefl-->
+	<searchlight_left>false</searchlight_left>
+	<FLIR>false</FLIR>
+	<windscreen_tri>true</windscreen_tri>
+	<!--or-->
+	<windscreen>false</windscreen>
+	<mirror>false</mirror>
+	<wirecutter_up>true</wirecutter_up>
+	<wirecutter_down>true</wirecutter_down>
+	<sandfilter>false</sandfilter>
+	<!--or-->
+	<IBF>true</IBF>
+	<!--or-->
+	<nonIBF>false</nonIBF>
+	<winch>false</winch>
+	<SLLightR>true</SLLightR><!--Retractablelanding/SearchlightRight-->
+	<SLLightL>true</SLLightL><!--Retractablelanding/SearchlightLEFT-->
+	<loudspeaker>false</loudspeaker>
+	<hellas>tfalse</hellas>
+	<lowskid>1</lowskid>
+	<snowboard_lowskid>false</snowboard_lowskid>
+	<wirecutter_skid>true</wirecutter_skid>
+	<!--or-->
+	<longskid_floats>0</longskid_floats>
+	<emergfloats>0</emergfloats>
+	<!--or-->
+	<midskid>0</midskid>
+	<snowboard_midskid>false</snowboard_midskid>
+	<wirecutter_midskid>false</wirecutter_midskid>
+	<!--or-->
+	<highskid>0</highskid>
+	<snowboard_highskid>false</snowboard_highskid>
+	<wirecutter_highskid>false</wirecutter_highskid>
+	<!--steps-->
+	<standardstep>true</standardstep>
+	<!--or-->
+	<multifunctioncarrier>false</multifunctioncarrier><!--in use with FLIR etc...)-->
+	<!--or-->
+	<roundstep>false</roundstep>
+	<DoubleCargoHook>false</DoubleCargoHook>
+	<buckle>false</buckle><!--reardoor_buckle-->
+	<!--reardoors-->
+	<reardoor_winR>true</reardoor_winR><!--reardoor with window-->
+	<reardoor_winL>true</reardoor_winL><!--reardoor with window-->
+	<reardoorL>false</reardoorL>
+	<reardoorR>false</reardoorR>
+      </ec135>
+    </model>
+    <rendering>	   
+	<refl_correction type="string">-0.05</refl_correction>
+	<refl-type>1.0</refl-type>
+	<fresnel-factor>0.5</fresnel-factor>
+    </rendering>
+  </sim>
+</PropertyList>

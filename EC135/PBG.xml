@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+	<name type="string">Polish Border Guard</name>
+	<index type="int">1</index>
+	<texture>liveries/PBG.png</texture>
+      </livery>
+      <ec135>
+	<AnalogDual>true</AnalogDual>
+	<DigitalDual>false</DigitalDual>
+	<AnalogSingle>false</AnalogSingle>
+	<DigitalSingle>false</DigitalSingle>	
+	<HEMS>true</HEMS>
+	<VIP>false</VIP>
+	<Utility>false</Utility>
+	<hide-gsdi>true</hide-gsdi>
+	<BigRadom>false</BigRadom>
+	<nose>true</nose><!--nose without frontlight-->
+	<!--or-->
+	<smallradom>false</smallradom>
+	<!--or-->
+	<nosefl>true</nosefl><!--nose with frontlight-->
+	<searchlight_front>false</searchlight_front><!--only without radom and without nosefl-->
+	<searchlight_left>true</searchlight_left>
+	<FLIR>true</FLIR>
+	<windscreen_tri>true</windscreen_tri>
+	<!--or-->
+	<windscreen>false</windscreen>
+	<mirror>false</mirror>
+	<wirecutter_up>false</wirecutter_up>
+	<wirecutter_down>false</wirecutter_down>
+	<sandfilter>false</sandfilter>
+	<!--or-->
+	<IBF>true</IBF>
+	<!--or-->
+	<nonIBF>false</nonIBF>
+	<winch>false</winch>
+	<SLLightR>false</SLLightR><!--Retractablelanding/SearchlightRight-->
+	<SLLightL>false</SLLightL><!--Retractablelanding/SearchlightLEFT-->
+	<loudspeaker>false</loudspeaker>
+	<hellas>tfalse</hellas>
+	<lowskid>0</lowskid>
+	<snowboard_lowskid>false</snowboard_lowskid>
+	<wirecutter_skid>false</wirecutter_skid>
+	<!--or-->
+	<longskid_floats>0</longskid_floats>
+	<emergfloats>0</emergfloats>
+	<!--or-->
+	<midskid>1</midskid>
+	<snowboard_midskid>false</snowboard_midskid>
+	<wirecutter_midskid>false</wirecutter_midskid>
+	<!--or-->
+	<highskid>0</highskid>
+	<snowboard_highskid>false</snowboard_highskid>
+	<wirecutter_highskid>false</wirecutter_highskid>
+	<!--steps-->
+	<standardstep>false</standardstep>
+	<!--or-->
+	<multifunctioncarrier>false</multifunctioncarrier><!--in use with FLIR etc...)-->
+	<!--or-->
+	<roundstep>true</roundstep>
+	<DoubleCargoHook>false</DoubleCargoHook>
+	<buckle>false</buckle><!--reardoor_buckle-->
+	<!--reardoors-->
+	<reardoor_winR>false</reardoor_winR><!--reardoor with window-->
+	<reardoor_winL>false</reardoor_winL><!--reardoor with window-->
+	<reardoorL>true</reardoorL>
+	<reardoorR>true</reardoorR>
+      </ec135>
+    </model>
+    <rendering>	   
+	<refl_correction type="string">-0.05</refl_correction>
+	<refl-type>1.0</refl-type>
+	<fresnel-factor>0.5</fresnel-factor>
+    </rendering>
+  </sim>
+</PropertyList>
