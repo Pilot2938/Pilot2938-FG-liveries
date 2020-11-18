@@ -43,6 +43,9 @@ Polish Border Guard, Lotnicze Pogotowie Ratunkowe
 
 ## Boeing:
 
+#### Boeing 707:
+Sabena
+
 #### Boeing 737-800:
 LOT, TUI Airways, Polish Air Force, US-Bangla, SpiceJet
 
