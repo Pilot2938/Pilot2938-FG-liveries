@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>eazyJet</name>
+				<texture>/Liveries/EZY.png</texture>
+				<winglets type="bool">false</winglets>
+			</livery>  	  
+		</model>
+	</sim>
+</PropertyList>

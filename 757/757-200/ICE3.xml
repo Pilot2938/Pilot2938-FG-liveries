@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Icelandair (TF-FIS)</name>
+				<texture>/Liveries/ICE3.png</texture>
+				<winglets type="bool">true</winglets>
+			</livery>  	  
+		</model>
+	</sim>
+</PropertyList>

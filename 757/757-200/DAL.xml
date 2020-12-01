@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Delta (N608DL)</name>
+				<texture>/Liveries/DAL.png</texture>
+				<winglets type="bool">false</winglets>
+			</livery>  	  
+		</model>
+	</sim>
+</PropertyList>
