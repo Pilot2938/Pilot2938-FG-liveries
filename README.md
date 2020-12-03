@@ -56,7 +56,7 @@ Qatar
 UPS
 
 #### Boeing 757-200: 
-Icelandair, TUI Airways, Easyjet, Delta, United, Continental, Finnair, British Airways
+Icelandair, TUI Airways, Easyjet, Delta, United, Continental, Finnair, British Airways, American Airlines
 
 #### Boeing 757-300:
 Condor
