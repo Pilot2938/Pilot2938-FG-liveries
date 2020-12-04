@@ -7,7 +7,11 @@
 				<name>British Airways (G-BIKK)</name>
 				<texture>/Liveries/BAW.png</texture>
 				<winglets type="bool">false</winglets>
-			</livery>  	  
+			</livery>
+			<reflection>
+               			<ambient-correction type="double">0.0</ambient-correction>
+                		<reflection-correction type="double">-0.3</reflection-correction>
+            		</reflection>  	  
 		</model>
 	</sim>
 </PropertyList>
