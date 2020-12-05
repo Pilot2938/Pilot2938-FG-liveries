@@ -114,10 +114,3 @@ MD-11: some liveries
 E-jet: Kenya Airways
 
 ### Make sure to check out https://herbert394.wixsite.com/fgliveries for even more high quality livs!
-
-
-
-
-
-## DO NOT MODIFY, IF YOU SEE ANY UNPERFECTIONS IN MY WORK LET ME KNOW AS SOON AS POSSIBLE OR MAKE YOUR OWN LIVERY. YOU ARE NOT ALLOWED TO USE THE LIVERIES IN YOU'RE PROJECT WITHOUT MY PERMISSION.
-
