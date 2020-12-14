@@ -59,7 +59,7 @@ UPS
 Icelandair, TUI Airways, Easyjet, Delta, United, Continental, Finnair, British Airways, American Airlines
 
 #### Boeing 757-300:
-Condor
+Condor, Icelandair
 
 #### Boeing 787-8:
 American Airlines, Air Canada, LOT, TUI Airways, LATAM Chile, British Airways, Biman Bangladesh
