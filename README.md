@@ -29,7 +29,7 @@ Eurowings
 Air Seychelles, Air China
 
 #### A330-343:
-Eurowings
+Eurowings, Hainan Airlines
 
 #### A350-900:
 Lufthansa, Cathay Pacific, SAS Scandinavian Airlines, Japan Airlines, South African, Asiana
