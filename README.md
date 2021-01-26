@@ -26,10 +26,10 @@ Swiss, Wizz Air, Qatar
 Eurowings
 
 #### A330-243:
-Air Seychelles, Air China
+Air Seychelles, Air China, Capital Airlines
 
 #### A330-343:
-Eurowings, Hainan Airlines
+Eurowings, Hainan Airlines, Capital Airlines
 
 #### A350-900:
 Lufthansa, Cathay Pacific, SAS Scandinavian Airlines, Japan Airlines, South African, Asiana
