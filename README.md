@@ -95,10 +95,10 @@ Air X
 ## McDonnell Douglas:
 
 #### MD-11:
-American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM, Swiss, Aer Lingus, Air Namibia
+American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM, Swiss, Aer Lingus, Air Namibia, World Airways
 
 #### MD-11F:
-Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair, AV Cargo
+Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair, AV Cargo, World Airways
 
 ## Bombardier:
 
