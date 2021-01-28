@@ -14,7 +14,7 @@ British Airways
 Air Canada, Austrian Airlines, British Airways, Condor, Eurowings, Swiss, TAP Air Portugal
 
 #### A320-232:
-British Airways, Qatar, Air Seychelles
+British Airways, Qatar, Air Seychelles, Pan Pacific Airlines
 
 #### A320-251N:
 British Airways, TAP Air Portugal, Air Seychelles
