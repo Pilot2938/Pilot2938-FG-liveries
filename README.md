@@ -98,7 +98,7 @@ Air X
 American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, Delta, Sabena, KLM, Swiss, Aer Lingus, Air Namibia, World Airways
 
 #### MD-11F:
-Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair, AV Cargo, World Airways
+Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair, AV Cargo, World Airways, Western Global Airlines
 
 ## Bombardier:
 
