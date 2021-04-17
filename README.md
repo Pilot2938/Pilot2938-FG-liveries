@@ -100,6 +100,9 @@ American Airlines, Alitalia, Japan Airlines, China Eastern, CityBird, Finnair, D
 #### MD-11F:
 Alitalia, China Eastern, EVA Air Cargo, Aeroflot, Finnair, AV Cargo, World Airways, Western Global Airlines, Lufthansa, Korean Air Cargo, Martinair Cargo
 
+#### MD-80:
+Delta, SAS Scandinavian Airlines
+
 ## Bombardier:
 
 #### Bombardier Dash8 Q400:
