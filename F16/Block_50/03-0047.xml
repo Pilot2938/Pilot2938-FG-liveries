@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+ <sim> 
+  <model>
+   <livery>
+    <name type="string">PolAF 31.BLT, "100th Anniversary"</name>
+    <texture>Liveries/Block50/03-0047.png</texture>
+    
+    <owner type="string">PolAF</owner>
+   </livery>
+   <livery-logo>
+    <texture>Liveries/Block50/polish.logo.png</texture>
+   </livery-logo>
+
+   <livery-patch>
+      <texture>Liveries/Block50/patch.poland.png</texture>
+  </livery-patch>
+
+  <livery-pod>
+        <texture>Armament/External-stores/MXU-648.png</texture>
+    </livery-pod>
+
+        <f16>
+            <dragchute type="bool">true</dragchute>
+            <cft type="bool">false</cft>
+        </f16>
+  </model>
+ </sim>
+</PropertyList>
