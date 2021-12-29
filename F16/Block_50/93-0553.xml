@@ -6,23 +6,23 @@
    <livery>
     <name type="string">USAF ADS, Thunderbirds #1</name>
     <texture>Liveries/Block50/93-0553.png</texture>
-    
     <owner type="string">USAF</owner>
    </livery>
+   
    <livery-logo>
     <texture>Liveries/yf/yf16-transp.png</texture>
    </livery-logo>
 
    <livery-patch>
-      <texture>Liveries/patch.default.png</texture>
+      <texture>Liveries/Block50/patch.thunderbirds.png</texture>
   </livery-patch>
 
   <livery-pod>
-        <texture>Armament/External-stores/MXU-648.png</texture>
+        <texture>Liveries/Block10/pod.white.png</texture>
     </livery-pod>
 
         <f16>
-            <dragchute type="bool">true</dragchute>
+            <dragchute type="bool">false</dragchute>
             <cft type="bool">false</cft>
         </f16>
   </model>
