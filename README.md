@@ -6,7 +6,7 @@ If you have suggestions for more liveries write to me on FG forum or FG discord 
 # Liveries you can find:
 
 ## Airbus:
-#Note to A320: currently under reworking for new 3D model
+# Note to A320: currently under reworking for new 3D model
 #### A320-111:
 British Airways
 
