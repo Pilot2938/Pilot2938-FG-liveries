@@ -4,9 +4,9 @@
 	<sim>
 		<model>
 			<livery>
-				<name>TAP Air Portugal(CS-TNH)</name>
-				<texture-fuselage>TAP-fuselage.png</texture-fuselage>
-				<texture-engine>STD-engine.png</texture-engine>
+				<name>Eurowings (D-AIZT)</name>
+				<texture-fuselage>EWG-fuselage.png</texture-fuselage>
+				<texture-engine>EWG-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
@@ -21,11 +21,11 @@
 			<perf-factor>+1.0</perf-factor>
 		</company-options>
 		<model-options>
-			<registration type="string">CS-TNH</registration>
-			<three-letter type="string">TAP</three-letter>
-			<two-letter type="string">TP</two-letter>
-			<sharklet type="bool">0</sharklet>
-			<wifi-aft type="bool">0</wifi-aft>
+			<registration type="string">D-AIZT</registration>
+			<three-letter type="string">EWG</three-letter>
+			<two-letter type="string">EW</two-letter>
+			<sharklet type="bool">1</sharklet>
+			<wifi-aft type="bool">1</wifi-aft>
 			<wifi-fwd type="bool">0</wifi-fwd>
 		</model-options>
 	</options>
