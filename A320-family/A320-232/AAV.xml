@@ -4,9 +4,10 @@
 	<sim>
 		<model>
 			<livery>
-				<name>Pan Pacific</name>
-				<texture-fuselage>Liveries/A320/IAE/AAV.png</texture-fuselage>
-				<texture-engine>Liveries/A320/IAE/AAV-engine.png</texture-engine>
+				<name>Pan Pacific (RP-C7932)</name>
+				<texture-fuselage>AAV-fuselage.png</texture-fuselage>
+				<texture-engine>STD-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
 	</sim>
