@@ -7,9 +7,6 @@ If you have suggestions for more liveries write to me on FG forum or FG discord 
 
 ## Airbus:
 # Note to A320: currently under reworking for new 3D model
-#### A320-111:
-British Airways
-
 #### A320-214:
 Air Canada, Austrian Airlines, British Airways, Condor, Eurowings, Swiss, TAP Air Portugal
 
