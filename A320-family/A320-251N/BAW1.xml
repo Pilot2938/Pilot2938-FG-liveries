@@ -4,8 +4,8 @@
 	<sim>
 		<model>
 			<livery>
-				<name>British Airways (G-TTNC)</name>
-				<texture-fuselage>BAW-fuselage.png</texture-fuselage>
+				<name>British Airways (G-TTNE)</name>
+				<texture-fuselage>BAW1-fuselage.png</texture-fuselage>
 				<texture-engine>BAW-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
@@ -21,7 +21,7 @@
 			<perf-factor>+0.0</perf-factor>
 		</company-options>
 		<model-options>
-			<registration type="string">G-TTNC</registration>
+			<registration type="string">G-TTNE</registration>
 			<three-letter type="string">BAW</three-letter>
 			<two-letter type="string">BA</two-letter>
 			<sharklet type="bool">1</sharklet>
