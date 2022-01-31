@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Deutsche Lufthansa AG livery for Airbus Industries A320neo mady by D-SVEN. Have fun! -->
+
 <PropertyList>
 	<sim>
 		<model>
 			<livery>
-				<name>Swiss</name>
-				<texture>Liveries/A320/PW-NEO/SWR.png</texture>
+				<name>Swiss (HB-JDA)</name>
+				<texture-fuselage>SWR-fuselage.png</texture-fuselage>
+				<texture-engine>STD-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
-			<eng>
-				<texture>Liveries/A320/PW-NEO/SWR_engines.png</texture>
-			</eng>
 		</model>
 	</sim>
+	
+	<options>
+		<engine-name type="string">PW1127G</engine-name>
+		<model-number type="string">A320-271N</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+0.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">HB-JDA</registration>
+			<three-letter type="string">SWR</three-letter>
+			<two-letter type="string">LX</two-letter>
+			<sharklet type="bool">1</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">0</wifi-fwd>
+		</model-options>
+	</options>
 </PropertyList>
- 
- 

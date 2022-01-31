@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <PropertyList>
 	<sim>
 		<model>
 			<livery>
-				<name>Qatar</name>
-				<texture>Liveries/A320/PW-NEO/QTR.png</texture>
+				<name>Qatar Airways (A7-AJB)</name>
+				<texture-fuselage>QTR-fuselage.png</texture-fuselage>
+				<texture-engine>QTR-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
-			<eng>
-				<texture>Liveries/A320/PW-NEO/QTR-eng.png</texture>
-			</eng>
 		</model>
 	</sim>
+	
+	<options>
+		<engine-name type="string">PW1127G</engine-name>
+		<model-number type="string">A320-271N</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+0.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">A7-AJB</registration>
+			<three-letter type="string">QTR</three-letter>
+			<two-letter type="string">QR</two-letter>
+			<sharklet type="bool">1</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">0</wifi-fwd>
+		</model-options>
+	</options>
 </PropertyList>
