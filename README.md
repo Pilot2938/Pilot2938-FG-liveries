@@ -41,7 +41,7 @@ Polish Border Guard, Lotnicze Pogotowie Ratunkowe
 ## Boeing:
 
 #### Boeing 707:
-Sabena, British Midland, Varig
+Sabena, British Midland, Varig, British Airways
 
 #### Boeing 737-800:
 LOT, TUI Airways, Polish Air Force, US-Bangla, SpiceJet
